@@ -1,9 +1,14 @@
-# api documentation for  [grunt-wiredep (v3.0.1)](http://stephenplusplus.github.io/grunt-wiredep)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-wiredep.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-wiredep) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep)
+# npmdoc-grunt-wiredep
+
+#### api documentation for  [grunt-wiredep (v3.0.1)](http://stephenplusplus.github.io/grunt-wiredep)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-wiredep.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-wiredep) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep)
+
 #### Inject your Bower dependencies right into your HTML from Grunt.
 
-[![NPM](https://nodei.co/npm/grunt-wiredep.png?downloads=true)](https://www.npmjs.com/package/grunt-wiredep)
+[![NPM](https://nodei.co/npm/grunt-wiredep.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-wiredep)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-wiredep_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-wiredep/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Stephen Sawchuk",
-        "email": "sawchuk@gmail.com",
         "url": "http://github.com/stephenplusplus"
     },
     "bugs": {
@@ -59,12 +63,10 @@
     ],
     "maintainers": [
         {
-            "name": "eddiemonge",
-            "email": "eddie+npm@eddiemonge.com"
+            "name": "eddiemonge"
         },
         {
-            "name": "stephenplusplus",
-            "email": "sawchuk@gmail.com"
+            "name": "stephenplusplus"
         }
     ],
     "name": "grunt-wiredep",
@@ -72,7 +74,6 @@
     "peerDependencies": {
         "grunt": ">=0.4.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/stephenplusplus/grunt-wiredep.git"
@@ -81,16 +82,6 @@
     "version": "3.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-wiredep](#apidoc.module.grunt-wiredep)
-
-
-
-# <a name="apidoc.module.grunt-wiredep"></a>[module grunt-wiredep](#apidoc.module.grunt-wiredep)
 
 
 
