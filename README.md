@@ -1,6 +1,6 @@
 # npmdoc-grunt-wiredep
 
-#### api documentation for  [grunt-wiredep (v3.0.1)](http://stephenplusplus.github.io/grunt-wiredep)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-wiredep.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-wiredep) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep)
+#### basic api documentation for  [grunt-wiredep (v3.0.1)](http://stephenplusplus.github.io/grunt-wiredep)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-wiredep.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-wiredep) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-wiredep)
 
 #### Inject your Bower dependencies right into your HTML from Grunt.
 
@@ -79,7 +79,8 @@
         "url": "git+https://github.com/stephenplusplus/grunt-wiredep.git"
     },
     "scripts": {},
-    "version": "3.0.1"
+    "version": "3.0.1",
+    "bin": {}
 }
 ```
 
